@@ -1,0 +1,22 @@
+nav{
+    background:#8080ff
+}
+    nav>ul{
+    display: flex;
+
+    
+}
+ul>li{
+    padding: 20px;
+    color: white;
+    list-style: none;
+    font-size: 20px;
+
+}
+li:hover{
+    text-shadow: 0.3px 0.3px white;
+    cursor: pointer;
+    transition: all 0.2s linear;
+    
+
+}
